@@ -36,4 +36,4 @@ bot.on('guildMemberRemove', member => {
     bot.user.setActivity(`${bot.guilds.get(GalaxyLandID).memberCount} membres | discord.me/galaxyland`, { type: 'WATCHING'});
 })
 
-bot.login(settings.token)
+bot.login(process.env.TOKEN)
