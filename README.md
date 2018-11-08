@@ -1,5 +1,5 @@
 ----**__GalaxyLand | FR__**----
-https://cdn.discordapp.com/attachments/509834044897493002/510133967329034270/nyancat.gif
+
 ----__Présentation__----
 
 *Que vous soyez fans de jeux vidéos, graphistes, développeurs ou encore fans de mangas ou autres, ce serveur est fait pour vous !!!!!!!*
