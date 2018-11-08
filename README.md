@@ -17,7 +17,7 @@
 :tada: **Des grades uniques à gagner en soyant actif et en parlant !**
 
 ***Tout est prêt il ne manque plus que toi !
-Notre objectif est d'être 50 membres avant les vacances de d'hiver minimum ! Aidez nous à y arriver s'il vous plait :heart:
+Notre objectif est d'être 50 membres avant les vacances de d'hiver minimum ! Aidez nous à y arriver s'il vous plait :heart:***
 
 ### :link: Le lien unique :  https://discord.gg/sAwgSAt :link:
 
