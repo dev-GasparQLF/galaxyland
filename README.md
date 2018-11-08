@@ -1,6 +1,6 @@
-----**__GalaxyLand | FR__**----
+# ----**__GalaxyLand | FR__**----
 
-----__Présentation__----
+## ----__Présentation__----
 
 *Que vous soyez fans de jeux vidéos, graphistes, développeurs ou encore fans de mangas ou autres, ce serveur est fait pour vous !!!!!!!*
 
