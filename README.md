@@ -4,7 +4,7 @@
 
 *Que vous soyez fans de jeux vidéos, graphistes, développeurs ou encore fans de mangas ou autres, ce serveur est fait pour vous !!!!!!!*
 
-**Sur notre serveur, tu trouveras :**
+"" **Sur notre serveur, tu trouveras :**
 ```diff
 -►✅ Un staff actif et à votre écoute.
 -►✅ Des bots utiles.
@@ -19,4 +19,5 @@
 Notre objectif est d'être 50 membres avant les vacances de d'hiver minimum ! Aidez nous à y arriver s'il vous plait :heart: __***
 
 **:link: Le lien unique :  https://discord.gg/sAwgSAt :link:**
+
 **:link: Le lien personnalisé : https://discord.me/galaxyland :link:**
